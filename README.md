@@ -1,3 +1,7 @@
+Processing data set from New York City traffic website using Hadoop MapReduce to yield the count of vehicles 
+involved in an incident and analyze the type of vehicles, which contributed to a maximum number of accidents.
+Technology used: AWS, Apache Hadoop, Python
+
 
 Steps/commands used to run the files on Hadoop
 
